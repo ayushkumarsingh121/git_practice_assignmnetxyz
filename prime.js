@@ -8,8 +8,9 @@ for(let i=0; i<num; i++){
 }
 
 if(count === 2){
-  console.log("Yes")
+  console.log("Yes it is prime no.")
 }
 else{
   console.log("No")
 }
+
